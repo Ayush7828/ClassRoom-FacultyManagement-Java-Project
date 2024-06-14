@@ -1,7 +1,7 @@
 Project Summary
 
 
-The Attendance and Faculty Management System is a web-based application,
+The Attendance and Faculty Management System is a web-based application BUilding RestApi,
 designed to streamline attendance tracking and faculty management in educational institutions.
 Its objectives include simplifying attendance recording, providing efficient course scheduling, 
 and enhancing communication between faculty, classroom, courses,FacultyAttendance,ClassSchedule and students.
@@ -14,5 +14,5 @@ Service (implements business logic and coordinates actions),
 DAO (manages database interactions).
 
 USE
-DataBase Use :- Mysql
+DataBase Use :- Mysql ||
 Request Hit:- Postman 
